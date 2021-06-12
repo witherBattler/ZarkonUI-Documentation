@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(182, 182, 182)
+}
+
+#leftbar {
+    width: 300px;
+    background-color: #333333;
+    height: 97.5vh;
+    display: inline-block;
+}
